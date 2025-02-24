@@ -1,10 +1,10 @@
-#Landing Page UI Design
+## Landing Page UI Design
 
-#Project Overview
+# Project Overview
 
 A responsive and visually appealing landing page designed to enhance web design skills. The project focuses on creating an engaging user interface with smooth animations and ensuring cross-browser compatibility.
 
-#Objective
+# Objective
 
     Develop a responsive landing page with modern UI design principles.
     
@@ -12,7 +12,7 @@ A responsive and visually appealing landing page designed to enhance web design 
     
     Ensure cross-browser compatibility and a seamless user experience.
 
-#Technologies Used
+# Technologies Used
 
     HTML – Structuring the web page content.
     
@@ -20,7 +20,7 @@ A responsive and visually appealing landing page designed to enhance web design 
     
     CSS Animations – Adding visual effects for enhanced user interaction.
 
-#Features
+# Features
     
     Fully Responsive Design – Adapts seamlessly to different screen sizes and devices.
     
