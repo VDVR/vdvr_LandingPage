@@ -21,11 +21,11 @@ A responsive and visually appealing landing page designed to enhance web design 
     CSS Animations – Adding visual effects for enhanced user interaction.
 
 #Features
-
-Fully Responsive Design – Adapts seamlessly to different screen sizes and devices.
-
-Smooth CSS Animations – Engaging effects to enhance user experience.
-
-Cross-Browser Compatibility – Works efficiently across various web browsers.
-
-Modern UI/UX Elements – Aesthetic layout with an intuitive interface.
+    
+    Fully Responsive Design – Adapts seamlessly to different screen sizes and devices.
+    
+    Smooth CSS Animations – Engaging effects to enhance user experience.
+    
+    Cross-Browser Compatibility – Works efficiently across various web browsers.
+    
+    Modern UI/UX Elements – Aesthetic layout with an intuitive interface.
